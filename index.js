@@ -7,3 +7,4 @@ app.get("/languages",(req,res)=>{
 })
 
 app.listen(port);
+console.log("hii");
